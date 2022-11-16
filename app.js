@@ -1,4 +1,4 @@
-const answer = ["router","picoCTF{th3_c0nsp1r4cy_l1v3s_6edb3f5f}","no comments simply waste","If you optimize everything, you will always be unhappy. (Donald Knuth)","entrepreneurship","104.244.42.129","synchronization","passion","208.117.236.69","zoho", "authentication","208.65.153.253"];
+const answer = ["router","picoCTF{th3_c0nsp1r4cy_l1v3s_6edb3f5f}","no comments simply waste","If you optimize everything, you will always be unhappy. (Donald Knuth)","entrepreneurship","104.244.42.129","synchronization","passion"];
 //page variable
 var i = 1;
 let result=0;
