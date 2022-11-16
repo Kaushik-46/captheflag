@@ -1,0 +1,46 @@
+*{
+  font-family: 'Source Sans Pro',sans-serif;
+  font-weight: bolder;
+  font-size: 25px;
+}
+button#next {
+    display: inline-block;
+    color: white;
+    border: none;
+    background-color: dodgerblue;
+    padding: 4px 14px;
+    letter-spacing: 1px;
+    border-radius: 2px;
+}
+
+button#prev {
+    display: inline-block;
+    color: white;
+    border: none;
+    background-color: dodgerblue;
+    padding: 4px 14px;
+    letter-spacing: 1px;
+    border-radius: 2px;
+}
+
+#img
+{
+   text-decoration: none;
+}
+#submit{
+  color: white;
+  background: green;
+  border: none;
+  padding: 6px 15px;
+  border-radius: 2px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-size: 15px;
+}
+.b1,.b2{
+  padding: 6px 15px;
+  border-radius: 2px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-size: 15px;
+}
